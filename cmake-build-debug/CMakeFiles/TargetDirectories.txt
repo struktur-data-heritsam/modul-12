@@ -1,0 +1,3 @@
+/Users/heritsam/Documents/CProjects/STD_1305213031_MOD12_JURNAL_APB/cmake-build-debug/CMakeFiles/STD_1305213031_MOD9_JURNAL_APB.dir
+/Users/heritsam/Documents/CProjects/STD_1305213031_MOD12_JURNAL_APB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heritsam/Documents/CProjects/STD_1305213031_MOD12_JURNAL_APB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
